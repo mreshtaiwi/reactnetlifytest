@@ -1,0 +1,9 @@
+img {
+  width: 400px;
+}
+.mycard {
+  background-color: lightblue;
+  border: 10px solid lightcyan;
+  margin: 25px;
+  float: left;
+}
